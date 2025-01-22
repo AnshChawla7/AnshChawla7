@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshchawla7&label=Profile%20views&color=0e75b6&style=flat" alt="anshchawla7" /> </p>
 
-- 🌱 I’m currently learning **Advance Python, Data Structures and Algorithms**
+- 🌱 I’m currently learning: **Advance Python, Data Structures and Algorithms**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+- 💬 Ask me about: **HTML, CSS, JavaScript, Python**
 
-- 📫 How to reach me **anshchawla3535@gmail.com**
+- 📫 How to reach me: **anshchawla3535@gmail.com**
 
-- ⚡ Fun fact **Introvert trying to be Extrovert!**
+- ⚡ Fun fact: **Introvert trying to be Extrovert!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
