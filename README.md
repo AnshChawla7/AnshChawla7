@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Advance Python, Data Structures and Algorithms**
 
-- 💬 Ask me about: **HTML, CSS, JavaScript, Python**
+- 💬 Ask me about: **HTML, CSS, JavaScript, Python, C/C++**
 
 - 📫 How to reach me: **anshchawla3535@gmail.com**
 
