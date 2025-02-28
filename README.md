@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ansh Chawla</h1>
-<h3 align="center">A passionate Computer Science Engineer from India.</h3>
+<h3 align="center">A Computer Science Engineering student following his passion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshchawla7&label=Profile%20views&color=0e75b6&style=flat" alt="anshchawla7" /> </p>
 
 - 🌱 I’m currently learning: **Advance Python, Data Structures and Algorithms**
 
-- 💬 Ask me about: **HTML, CSS, JavaScript, Python, C/C++**
+- 💬 Ask me about: **HTML, CSS, JavaScript, Python, C/C++, MySQL**
 
 - 📫 How to reach me: **anshchawla3535@gmail.com**
 
